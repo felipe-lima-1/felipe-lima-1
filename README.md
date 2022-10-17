@@ -1,4 +1,4 @@
-<h2 align="center">Sou o Felipe Lima 👋, estudante de desenvolvimento web Full-Stack  💻 </h2>
+<h2 align="center">Sou o Felipe, estudante de desenvolvimento web Full-Stack  💻 </h2>
 
 - 🌱 Estudando desenvolvimento web na Trybe
 - 💻 Apaixonado por tecnologia
