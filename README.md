@@ -2,13 +2,11 @@
 
 - 🌱 Estudando desenvolvimento web na Trybe
 - 💻 Apaixonado por tecnologia
-<br>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
 <a href="https://github.com/felipe-lima-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-lima-1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-lima-1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-lima-1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-lima-1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div align="center"  style="display: inline_block"><br>
