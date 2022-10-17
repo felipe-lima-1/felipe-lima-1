@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="gif-greetings"/>
 
-<h2 align="center">I'm Felipe 👋, a full-stack developer 👨‍💻 🚀</h2>
+<h2 align="center">Sou o Felipe 👋, full-stack developer 👨‍💻 🚀</h2>
 
 - 🌱 Estudando desenvolvimento web na Trybe
 - 💻 Apaixonado por tecnologia
@@ -34,7 +34,8 @@
 <div> 
   ![Snake animation](https://github.com/felipe-lima-1/felipe-lima-1/blob/output/github-contribution-grid-snake.svg)
 </div>
-<div> Contato
+<h2> Contato
+  <br>
   <br>
   <a href="https://www.linkedin.com/in/luiz-felipe-lima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+ </h2>
