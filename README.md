@@ -3,6 +3,7 @@
 <h2 align="center">I'm Felipe 👋, a full-stack developer 👨‍💻 🚀</h2>
 
 - 🌱 Estudando desenvolvimento web na Trybe
+- 💻 Apaixonado por tecnologia
 
 <div align="center">
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe-lima-1&theme=darkhub" alt="felipe-lima-1" /></a> </p>
@@ -29,18 +30,11 @@
 </div>
 </td></tr></table>  
 </div>
-
-  ##
-  
- <div align="center">
- 
- ![QUOTES](https://quotier.vercel.app/quote)
- </div>
- 
-  ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/luiz-felipe-lima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/felipe-lima-1/felipe-lima-1/blob/output/github-contribution-grid-snake.svg)
 </div>
+<div> Contato
+  <br>
+  <a href="https://www.linkedin.com/in/luiz-felipe-lima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
