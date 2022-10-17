@@ -31,9 +31,8 @@
 </td></tr></table>  
 </div>
  
-<div> 
   ![Snake animation](https://github.com/felipe-lima-1/felipe-lima-1/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 <h2> Contato
   <br>
   <br>
