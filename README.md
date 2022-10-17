@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="gif-greetings"/>
 
-<h2 align="center">Sou o Felipe 👋, full-stack developer 👨‍💻 🚀</h2>
+<h2 align="center">Sou o Felipe 👋, desenvolvedor Full-Stack 💻 </h2>
 
 - 🌱 Estudando desenvolvimento web na Trybe
 - 💻 Apaixonado por tecnologia
