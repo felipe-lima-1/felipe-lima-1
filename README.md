@@ -2,7 +2,6 @@
 
 - 🌱  Estudando desenvolvimento web na Trybe
 - 💻  Apaixonado por tecnologia
-- 🚙  Amo carros
 
 <div align="center"><br>
 <a href="https://github.com/felipe-lima-1">
