@@ -18,6 +18,7 @@
   <img align="center" alt="Felipe-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Felipe-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Felipe-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="Felipe-jest" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg">
   <img align="center" alt="Felipe-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
 <div align="center" style="display: inline-block"><br>
