@@ -1,10 +1,10 @@
 <h2 align="center">Sou o Felipe, Desenvolvedor Web Full-Stack  💻 </h2>
 
-- 💻  Apaixonado por tecnologia
-- 👨‍💻 Experiência em desenvolvimento full-stack, abrangendo tanto o front-end quanto o back-end
-- 📚 Sempre em busca de aprendizado contínuo e atualização das últimas tendências em tecnologia
-- 🤝 Excelente capacidade de trabalhar em equipe e colaborar em projetos conjuntos
-- 🧠 Interesse especial em inteligência artificial e suas aplicações no desenvolvimento de software
+- 💻 Technology enthusiast
+- 👨‍💻 Experience in full-stack development, encompassing both front-end and back-end
+- 📚 Always seeking continuous learning and staying updated on the latest technology trends
+- 🤝 Excellent ability to work in a team and collaborate on joint projects
+- 🧠 Special interest in artificial intelligence
 
 <div align="center"><br>
 <a href="https://github.com/felipe-lima-1">
