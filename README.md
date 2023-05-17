@@ -1,4 +1,4 @@
-<h2 align="center">Sou o Felipe, Desenvolvedor Web Full-Stack  💻 </h2>
+<h1 align="center"> About Me 📝</h1>
 
 - 💻 Technology enthusiast
 - 👨‍💻 Experience in full-stack development, encompassing both front-end and back-end
