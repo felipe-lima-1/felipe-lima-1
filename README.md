@@ -9,9 +9,8 @@
 ### About me
 
 - 🎯 **Head of Technology** leading multidisciplinary squads across LATAM
-- 💻 **15+ years in tech**, 10+ in leadership — full-stack engineer turned technical leader
-- 🤖 Building **AI-powered automations** and internal tools (Claude API, AWS Lambda, monday.com)
-- 🚀 Currently shipping **FuelMap** (Next.js + Supabase + PostGIS) and **Thunder HUB**
+- 💻 **15+ years in tech**, full-stack engineer turned technical leader
+- 🤖 Building **AI-powered automations** and internal tools
 - 🎓 **FGV MBA** in IT Management • COBIT 2019 • ITIL • Cisco CCNA
 
 <br>
