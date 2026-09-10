@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Felipe 👋</h1>
 
 <p align="center">
-  <em>Head of Technology @ Thunder Mustard — building things, leading teams, shipping software.</em>
+  <em>Head of Technology @ Thunder Mustard - building things, leading teams, shipping software.</em>
 </p>
 
 ---
